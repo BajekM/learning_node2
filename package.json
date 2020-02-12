@@ -1,0 +1,12 @@
+{
+  "name": "learning_node2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BajekM/learning_node2.git",
+  "author": "Marcin Bajek <bajekmarcin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
